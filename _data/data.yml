@@ -43,7 +43,7 @@ sidebar:
       - item: Cooking
         link:
 
-career-profile:
+#career-profile:
   #  title: Career Profile
   #  summary: |
   #    Summarise your career here lorem ipsum dolor sit amet, consectetuer
@@ -54,7 +54,7 @@ career-profile:
 
   #    Second paragraph if required.
 
-education:
+#education:
   #  - degree: MSc in Computer Science
   #    university: University of London
   #    time: 2011 - 2012
@@ -81,7 +81,7 @@ education:
     #      - Bullet point
     #      - Bullet point
 
-experiences:
+#experiences:
   #  - role: Lead Developer
 #      time: 2015 - Present
     #  company: Startup Hubs, San Francisco
@@ -125,14 +125,14 @@ experiences:
   #      - Bullet point
   #        - Bullet point
 
-projects:
+#projects:
   #  title: Projects
   #  intro: >
   #    You can list your side projects or open source libraries in this
   #    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    assignments:
+  #  assignments:
   #    - title: Velocity
   #      link: "#hook"
   #      tagline: "A responsive website template designed to help startups promote, market and sell their products."
@@ -153,14 +153,14 @@ projects:
   #      link: "#"
   #      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 #
-publications:
+#publications:
 #    title: Publications
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
 
-    papers:
+#    papers:
   #    - title: The Art of Computer Programming
     #    authors: Donald E. Knuth
     #    conference: Addison-Wesley, 1968
@@ -173,7 +173,7 @@ publications:
   #      authors: Edgar T. Irons
   #      conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
+#skills:
 #    title: Skills &amp; Proficiency
 
 #    toolset:
