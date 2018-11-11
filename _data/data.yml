@@ -27,6 +27,9 @@ sidebar:
       - idiom: Korean
         level: Professional
 
+      - idiom: English
+        level: Professional
+
 
     interests:
       - item: Game
@@ -41,7 +44,7 @@ sidebar:
 career-profile:
     title: about me
     summary: |
-      My name is Junhyuk Yoon and I was born in Seoul in 2003 
+      My name is Junhyuk Yoon and I was born in Seoul in 2003
 
 #education:
   #  - degree: MSc in Computer Science
