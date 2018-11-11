@@ -24,23 +24,18 @@ sidebar:
     codewars:
 
     languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
+      - idiom: Korean
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
 
     interests:
-      - item: Climbing
+      - item: Game
         link:
 
-      - item: Snowboarding
+      - item: Computer
         link:
 
-      - item: Cooking
+      - item: OverClock
         link:
 
 #career-profile:
